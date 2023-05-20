@@ -141,7 +141,7 @@ Since our p_value was much lower than our cutoff, we believe that there is an ar
 This result gives us insight into the areas we might want to prioritize with infastructure improvements in the United States. However, there are many other factors that could affect the duration in rural areas, such as difficult to reach equipment. 
 
 
-# Power_Outage_Model
+# Power Outage Model
 
 ## Framing The Problem
 

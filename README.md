@@ -1,2 +1,1 @@
-# Power Outage Project
-# By Samuel Mai
+# Power Outage Project By Samuel Mai
